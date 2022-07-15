@@ -13,8 +13,8 @@ Buildpack `heroku-integrated-firefox-geckodriver` enables your application or cl
 
 Version compatibility as follows:
 
-- Firefox v82.0.3
-- Geckodriver v0.28.0
+- Firefox v101.0.1
+- Geckodriver v0.31.0
 
 
 # Installation:
